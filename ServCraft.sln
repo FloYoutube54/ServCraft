@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServCraft", "ServCraft\ServCraft.vbproj", "{B73BAB81-4719-4819-A64B-29B2E2493C4F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebServeContent", "WebServeContent\WebServeContent.vbproj", "{1CA3F0C5-FD5C-4598-A9C2-A21D2BED6E99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B73BAB81-4719-4819-A64B-29B2E2493C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73BAB81-4719-4819-A64B-29B2E2493C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73BAB81-4719-4819-A64B-29B2E2493C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA3F0C5-FD5C-4598-A9C2-A21D2BED6E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA3F0C5-FD5C-4598-A9C2-A21D2BED6E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA3F0C5-FD5C-4598-A9C2-A21D2BED6E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA3F0C5-FD5C-4598-A9C2-A21D2BED6E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
